@@ -2,6 +2,12 @@
 
 This repository documents my exploration of integrating public EMG datasets with Gymnasium-Robotics. This project aims to investigate the feasibility of using EMG signals for robotic control, including a literature review and implementation details.
 
+The current setup is designed as a personal mini-project and intentionally avoids the need for external hardware (such as a physical prosthetic device), helping to reduce costs (an important factor I often consider in all my projects). Now the focus is on leveraging publicly available datasets and simulation tools.
+
+In the future, I envision extending this work into a closed-loop system incorporating non-invasive sensory feedback, enabling bidirectional communication between the user and the robotic system.
+
+The concept of this system shares some similarities with the work I conducted during my master's thesis. However, to protect the intellectual property and content of TNE lab, I will implement the system using a different technical approach and architecture.
+
 ## 📌 Table of Contents
 1. [📖 Paper Review](#paper-review)
 2. [🎯 Project Goals](#project-goals)
