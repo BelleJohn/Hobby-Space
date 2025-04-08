@@ -16,11 +16,12 @@ This repository documents my exploration of integrating public EMG datasets with
 
 ## 📖 Paper Review
 
-A summary of relevant research papers on EMG-based robotic control and Gymnasium-Robotics.
+While there is currently no literature specifically combining EMG-based control with Gymnasium-Robotics environments, several relevant works have explored EMG signal processing for robotic control, and others have examined Gymnasium-Robotics for reinforcement learning tasks. These areas provide valuable background for this exploratory project.
 
-- **Paper 1:** [Title, Authors, Summary, Key Findings]
-- **Paper 2:** [Title, Authors, Summary, Key Findings]
-- **Paper 3:** [Title, Authors, Summary, Key Findings]
+- **Paper 1:** [Title, Authors, Summary of EMG-based control for prosthetics]
+- **Paper 2:** [Title, Authors, Summary of EMG signal classification techniques]
+- **Paper 3:** [Title, Authors, Summary of Gymnasium-Robotics applications and environments]
+<br/>-- checked through Perplexity and Google
 
 ---
 
