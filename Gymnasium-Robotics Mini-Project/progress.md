@@ -15,8 +15,9 @@ This diary documents the detailed progress and tasks of the EMG-Robotics integra
 - Need to select a Gymnasium-Robotics environment (likely 'Reacher' or 'ShadowHand') to begin mapping EMG signals.
 ---
 **Focus:**  Gymnasium-Robotics environment Setup
-- [ ] Learn basic of Gymnasium/Gymnasium-Robotics.
-- [ ] Build a simple Gymnasium-Robotics environment.
+- [x] Learn basic of Gymnasium/Gymnasium-Robotics.
+- [x] Build a simple Gymnasium-Robotics environment.
+- [ ] Convert code to VScode
 ---
 **Focus:** Dataset Analysis
 - [ ] Select and download public EMG dataset.
