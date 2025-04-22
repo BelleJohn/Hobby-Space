@@ -20,8 +20,8 @@ Welcome to my **Hobby Space**! 🚀 This is where I explore, experiment, and tra
 ## 📊 Learning Progress  
 | Project | Status | Notes |
 |---------|--------|-------|
-| **BCI ALVI Challenge** | 🔄 In Progress | Reviewing past implementation and reworking. |
-| **Gymnasium-Robotics Mini-Project** | 🛠 Planned | Setting up the environment. |
+| **BCI ALVI Challenge** | 🛠 Planned | Reviewing past implementation and reworking. |
+| **Gymnasium-Robotics Mini-Project** | 🔄 In Progress | Setting up the environment. |
 | **PyTorch RL Experiments** | 🚀 Ongoing | Learning and running initial tests with RL models. (See [Study-Notes-and-Practice repo](https://github.com/BelleJohn/Study-Notes-and-Practice.git))|
 
 ## 📁 Repository Structure  
